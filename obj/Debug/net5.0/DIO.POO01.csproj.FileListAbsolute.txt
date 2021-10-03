@@ -1,0 +1,16 @@
+C:\git\DIO.POO01\bin\Debug\net5.0\DIO.POO01.exe
+C:\git\DIO.POO01\bin\Debug\net5.0\DIO.POO01.deps.json
+C:\git\DIO.POO01\bin\Debug\net5.0\DIO.POO01.runtimeconfig.json
+C:\git\DIO.POO01\bin\Debug\net5.0\DIO.POO01.runtimeconfig.dev.json
+C:\git\DIO.POO01\bin\Debug\net5.0\DIO.POO01.dll
+C:\git\DIO.POO01\bin\Debug\net5.0\ref\DIO.POO01.dll
+C:\git\DIO.POO01\bin\Debug\net5.0\DIO.POO01.pdb
+C:\git\DIO.POO01\obj\Debug\net5.0\DIO.POO01.csproj.AssemblyReference.cache
+C:\git\DIO.POO01\obj\Debug\net5.0\DIO.POO01.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\DIO.POO01\obj\Debug\net5.0\DIO.POO01.AssemblyInfoInputs.cache
+C:\git\DIO.POO01\obj\Debug\net5.0\DIO.POO01.AssemblyInfo.cs
+C:\git\DIO.POO01\obj\Debug\net5.0\DIO.POO01.csproj.CoreCompileInputs.cache
+C:\git\DIO.POO01\obj\Debug\net5.0\DIO.POO01.dll
+C:\git\DIO.POO01\obj\Debug\net5.0\ref\DIO.POO01.dll
+C:\git\DIO.POO01\obj\Debug\net5.0\DIO.POO01.pdb
+C:\git\DIO.POO01\obj\Debug\net5.0\DIO.POO01.genruntimeconfig.cache
